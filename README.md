@@ -1,4 +1,4 @@
-<h1 align="left">Projet Swift / Objectif découverte de Swift et Swift UI</h1>
+<h1 align="left">Projet iOS / Objectif découverte de Swift et Swift UI</h1>
 
 <h3 align="left">Installation : cloner le projet puis lancer un IDE X code depuis un MAC et Run l'application</h3>
 
