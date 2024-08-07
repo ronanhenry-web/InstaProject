@@ -4,10 +4,10 @@ Objectif découverte de Swift et Swift UI
 
 ## Démarrer
 
-Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
+Le projet a été créé sous X code, pour le démarrer suivre les étapes suivantes.
 
 - Cloner le projet
-- Lancer un IDE X code depuis un MAC et Run l'application
+- Avoir un MAC pour Run l'application
 
 ## Sources & Outils
 
