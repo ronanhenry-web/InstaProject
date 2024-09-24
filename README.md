@@ -1,14 +1,14 @@
-# Projet Insta 
+# Insta Project
 
-Objectif découverte de Swift et Swift UI
+Goal: Discover Swift and Swift UI
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous X code, pour le démarrer suivre les étapes suivantes.
+The project was created in Xcode. To start it, follow these steps :
 
-- Cloner le projet
-- Avoir un MAC pour Run l'application
+- Clone the project
+- Have a Mac to run the application
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
